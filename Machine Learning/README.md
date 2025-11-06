@@ -5,7 +5,6 @@ This directory is for ML related concepts and contains small, modular programs a
 ### Components
 - **basics/** → Implement ML algorithms from scratch.
 - **mini_project/** → Build and evaluate a small supervised ML project.
-- **experiments/** → Tune models, compare performance, and test new ideas.
 
 ### Contribution Ideas
 - Debug or improve existing code.
