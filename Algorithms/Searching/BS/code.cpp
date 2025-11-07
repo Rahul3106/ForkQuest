@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int binarySearch(vector<int> &arr, x) {
+int binarySearch(vector<int> &arr,int x) {
     int left = 0, right = arr.size();
     
     while (left <= right) {
